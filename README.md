@@ -146,26 +146,6 @@ model implementation ├── dataset/ \# Retinal image dataset ├── model
 
 ------------------------------------------------------------------------
 
-# Running the Project
-
-Clone the repository
-
-git clone https://github.com/yourusername/glaucoma-detection.git
-
-Navigate to the directory
-
-cd glaucoma-detection
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Run the notebook
-
-jupyter notebook glaucoma.ipynb
-
-------------------------------------------------------------------------
-
 # Applications
 
 This research can be applied to:
@@ -188,21 +168,3 @@ Potential improvements include:
 -   Deploying the system as a **web or mobile application**
 -   Integrating with hospital diagnostic systems
 
-------------------------------------------------------------------------
-
-# Authors
-
-Dheeraj Sai Chakravarthy\
-Sai Yashwanth Reddy\
-Manzoor Alam
-
-Supervised by:\
-Debasis Nandi\
-Department of Computer Science\
-National Institute of Technology, Durgapur
-
-------------------------------------------------------------------------
-
-# License
-
-This project is intended for **academic and research purposes only**.
