@@ -137,15 +137,6 @@ Visualization: - Matplotlib
 
 ------------------------------------------------------------------------
 
-# Project Structure
-
-glaucoma-detection/ │ ├── glaucoma.ipynb \# Main notebook containing
-model implementation ├── dataset/ \# Retinal image dataset ├── models/
-\# Saved model weights ├── results/ \# Segmentation outputs ├── utils/
-\# Utility functions └── README.md \# Project documentation
-
-------------------------------------------------------------------------
-
 # Applications
 
 This research can be applied to:
@@ -155,16 +146,3 @@ This research can be applied to:
 -   Large-scale ophthalmology screening programs
 -   Medical imaging research
 -   AI-based diagnostic tools
-
-------------------------------------------------------------------------
-
-# Future Work
-
-Potential improvements include:
-
--   Training on larger retinal datasets
--   Incorporating **Attention U-Net architectures**
--   Adding glaucoma classification models
--   Deploying the system as a **web or mobile application**
--   Integrating with hospital diagnostic systems
-
